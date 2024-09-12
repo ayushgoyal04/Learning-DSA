@@ -1,8 +1,9 @@
-#include<iostream>
+// finding the bound of a key inside an array
+
+#include<bits/stdc++.h>
 using namespace std;
 
 int firstOcc(int arr[], int n, int key){
-
     int s = 0, e = n -1;
     int mid = s + (e - s)/2;
     int ans = -1;

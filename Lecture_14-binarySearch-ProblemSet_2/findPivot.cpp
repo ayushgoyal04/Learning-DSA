@@ -23,6 +23,6 @@ int getPivot(int arr[], int n){
 
 int main(){
     int arr[5]= {3, 8, 10, 17, 1};
-    cout<<"Pivot is "<< getPivot(arr, 5)<<endl;
+    cout<<"Pivot is at index"<< getPivot(arr, 5)<<endl;
 
 }
