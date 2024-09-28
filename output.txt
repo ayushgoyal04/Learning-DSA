@@ -1,1 +1,6 @@
-Pivot is at index 4
+Finding 6 0
+Finding 7 1
+Lower bound 3
+Max 5Min 1After rotate 
+3 5 7 9 11 13 1 
+13 11 9 7 5 3 1 

@@ -23,8 +23,8 @@ int main(){
 
     int a=1;
     int b=5;
-    cout<<"Max "<<max(a,b);
-    cout<<"Min "<<min(a,b);
+    cout<<"Max "<<max(a,b)<<endl;
+    cout<<"Min "<<min(a,b)<<endl;
 
     swap(a,b);
 
