@@ -18,13 +18,14 @@ int main(){
     s.insert(-1);
 
     for(auto i:s){
-        cout<<i<<endl;
+        cout<<i<<" ";
     }
+    cout<<endl;
 
     s.erase(s.begin());
 
     cout<<"is 5 Present? "<<s.count(5)<<endl;
     cout<<"is -5 Present? "<<s.count(-5)<<endl;
 
-    //iterator 
+    //iterator
 }
